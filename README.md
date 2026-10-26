@@ -1,16 +1,33 @@
-## Hi there 👋
+# Brandon Castrillon
 
-<!--
-**brando046/brando046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en Málaga, España.
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de software, las bases de datos y la creación de aplicaciones. Me gusta aprender nuevas tecnologías y poner en práctica mis conocimientos mediante proyectos personales y académicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- **Lenguajes:** Java, Python, Kotlin, JavaScript y SQL.
+- **Desarrollo web:** HTML5, CSS3 y JavaScript.
+- **Bases de datos:** MySQL, MariaDB y PostgreSQL.
+- **Herramientas:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ IDEA, Eclipse y Visual Studio Code.
+- **Otros:** Odoo, XML y JSON.
+
+## Proyectos destacados
+
+- **[Videoclub Java](https://github.com/brando046/videoclub-java):** aplicación para gestionar películas y alquileres.
+- **[Tres en raya](https://github.com/brando046/tres-en-raya):** juego desarrollado en Java con interfaz gráfica.
+- **[Portfolio personal](https://github.com/brando046/Portfolio-Brandon):** web donde presento mis proyectos y conocimientos.
+- **[Tienda online](https://github.com/brando046/tienda-online):** proyecto de comercio electrónico.
+- **[Recetas](https://github.com/brando046/Recetas):** proyecto relacionado con la gestión de recetas.
+
+## Actualmente
+
+- Mejorando mis conocimientos de Java y bases de datos.
+- Desarrollando aplicaciones y proyectos personales.
+- Aprendiendo buenas prácticas de programación y control de versiones.
+
+## Contacto
+
+- **GitHub:** [brando046](https://github.com/brando046)
+- **Portfolio:** [Mi portfolio](https://brando046.github.io/Portfolio-Brandon/)
+
