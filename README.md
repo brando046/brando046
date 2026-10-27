@@ -27,7 +27,5 @@ Me interesa el desarrollo de software, las bases de datos y la creación de apli
 - Aprendiendo buenas prácticas de programación y control de versiones.
 
 ## Contacto
-
-- **GitHub:** [brando046](https://github.com/brando046)
 - **Portfolio:** [Mi portfolio](https://brando046.github.io/Portfolio-Brandon/)
 
